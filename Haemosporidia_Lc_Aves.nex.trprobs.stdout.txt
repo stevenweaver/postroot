@@ -1,0 +1,22 @@
+
+
+Reading trees from file posttrees .......
+The number of sequences is 25, and the number of trees is 10
+
+The number of unique rootings was 3
+
+
+Frequency   Taxa on one side
+    3         1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+    3         1 2 3 4 6 7 8 9 10 11 12 13 16 17 18 19 20 21 22 23 24 25 
+    4         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 
+
+
+10 trees have been tallied.
+
+Root probabilities at each generation have been written to the file
+rootpp.dat.  These can be used with the root_diag program to check 
+convergence with respect to root position.
+
+Bye-bye!
+
